@@ -31,3 +31,5 @@ Next.js / React / TypeScript を使い、既存のたたき台UIを改善しな�
 
 ## 詳細
 課題内容について：[TASK.md](docs/TASK.md)
+1.現状の課題整理：[1_task_management.md](docs/outputs/1_task_management.md)
+2.改善方針の設計：[2_design_of_improvement.md](docs/outputs/2_design_of_improvement.md)
